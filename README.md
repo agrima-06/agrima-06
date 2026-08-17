@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,50:2575fc,100:00c6ff&text=Agrima%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:120136,50:5C258D,100:4389A2&text=Agrima%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Learning+Java+%26+DSA;Building+%26+Breaking+Things;Former+Laravel+Developer;Learning+Something+New+Every+Day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=900&color=9F7AEA&center=true&vCenter=true&width=720&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+JavaScript;React+%7C+Laravel+%7C+Web+Development;Learning+DSA+%26+Building+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Growing"/>
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif" width="600"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif" width="520"/>
 
 </div>
 
@@ -14,122 +14,170 @@
 
 ## 👩‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td valign="top" width="58%">
+<table>
+<tr>
 
-<ul>
-  <li>🎓 <b>Computer Science & AI Student</b></li>
-  <li>💻 Started my coding journey in <b>Class 9</b> during lockdown</li>
-  <li>🐘 Learned <b>PHP & Laravel</b> while building web projects</li>
-  <li>☕ Currently learning <b>Java</b></li>
-  <li>🧠 Working on my <b>DSA & problem-solving skills</b></li>
-  <li>🌐 Interested in <b>Web Development & Building Projects</b></li>
-  <li>🚀 I enjoy turning ideas into things that actually work</li>
-  <li>📈 Trying to become a little better with every commit</li>
-</ul>
+<td width="58%" valign="top">
 
-```
+### Hey! I'm Agrima 👋
+
+I'm a **Computer Science & AI student** who enjoys learning by building things, solving problems and experimenting with new ideas.
+
+My coding journey started back in **Class 9 during lockdown**, when I learned **PHP and Laravel** and started exploring web development.
+
+Since then, I've been exploring different technologies and trying to understand not just how to code, but how to actually **build useful things with code**.
+
+<br>
+
+* 🎓 Computer Science & AI Student
+* ☕ Working with **Java**
+* 🐍 Working with **Python**
+* ⚛️ Building with **React**
+* 🌐 Working with **JavaScript & Web Technologies**
+* 🐘 Started my journey with **PHP & Laravel**
+* 🧠 Currently improving **DSA & problem solving**
+* 🚀 Interested in **building real-world projects**
+* 🤝 Always open to learning and collaborating
+
 </td>
 
-<td valign="top" width="42%" align="center">
-```
+<td width="42%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrima-06&theme=tokyo-night&hide_border=true&area=true" width="380"/>
-
-```
-</td>
-```
-
-  </tr>
-</table>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/PHP-181818?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
-</p>
-
-### Frameworks & Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/Web%20Development-181818?style=for-the-badge&logo=googlechrome&logoColor=4285F4"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS%20Code-181818?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-
-</p>
-
----
-
-## 🎯 What I'm Working Towards
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🧠 DSA
-
-Improving my problem-solving skills and getting better at algorithms.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 
-<td align="center" width="33%">
-
-### 💻 Development
-
-Building projects and learning by actually creating things.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 Growth
-
-Consistently learning, experimenting and becoming a better developer.
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+# 🧭 My Coding Journey
+
+<div align="center">
+
+```text
+                  CLASS 9
+                     │
+                     ▼
+              PHP + Laravel 🐘
+                     │
+                     ▼
+             Web Development 🌐
+                     │
+                     ▼
+          Computer Science & AI 🎓
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+        Java ☕    Python 🐍   JavaScript ⚡
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+                  React ⚛️
+                     │
+                     ▼
+                 DSA 🧠
+                     │
+                     ▼
+             BUILD • SOLVE • SHIP 🚀
+```
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,php"/>
+
+</p>
+
+## ⚛️ Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,laravel"/>
+
+</p>
+
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 DSA
+
+Building stronger problem-solving skills through consistent practice.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Full-Stack
+
+Learning how frontend, backend, APIs and databases come together.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Real Projects
+
+Moving from solving individual problems to building complete applications.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 What I'm Working Towards
+
+<div align="center">
+
+### 🧠 Become a Better Problem Solver
+
+Learn to approach problems logically instead of just memorizing solutions.
+
+<br>
+
+### 💻 Become a Stronger Developer
+
+Build projects that go beyond tutorials and actually solve problems.
+
+<br>
+
+### 🚀 Build Things I Can Be Proud Of
+
+Take ideas from **“what if?” → code → working product.**
+
+</div>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -141,7 +189,7 @@ Consistently learning, experimenting and becoming a better developer.
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -151,66 +199,143 @@ Consistently learning, experimenting and becoming a better developer.
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Architecture
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/agrima-06/agrima-06/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/agrima-06/agrima-06/output/github-contribution-grid-snake.svg">
+
+<img
+alt="Agrima's GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/agrima-06/agrima-06/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+<br>
+
+<i>Every square is a day. Every move is progress.</i>
+
+</div>
+
+---
+
+# 🧊 My Year in Code
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/agrima-06/agrima-06/main/profile-3d-contrib/profile-night-green.svg"
+width="90%"
+alt="Agrima's 3D GitHub Contribution Calendar"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=agrima-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/agrima-06">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrima-06&repo=REPOSITORY-NAME&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+> 🚧 More projects coming as I keep building.
+
+---
+
+# 🎥 Beyond Coding
+
+<div align="center">
+
+I also enjoy **creating content and documenting my journey**.
+
+<br><br>
+
+<a href="https://www.youtube.com/@Bubbleif">
+
+<img src="https://img.shields.io/badge/Bubbleif-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+</a>
+
+  
+
+<a href="https://www.youtube.com/@KlipSoul">
+
+<img src="https://img.shields.io/badge/KlipSoul-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+📸 Instagram: **@klipping._.bubbles**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/agrimagupta06/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+
 </a>
 
     
 
 <a href="https://github.com/agrima-06">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 
-    
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 
-<a href="https://www.youtube.com/@Bubbleif">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
 </a>
 
     
 
 <a href="mailto:agrimakesharwani06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+
 </a>
 
 </p>
 
 ---
 
-## 🎥 Beyond Coding
-
 <div align="center">
 
-I also enjoy creating content and documenting my journey.
+<img src="https://komarev.com/ghpvc/?username=agrima-06&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<a href="https://www.youtube.com/@Bubbleif">
-<img src="https://img.shields.io/badge/YouTube-Bubbleif-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@KlipSoul">
-<img src="https://img.shields.io/badge/YouTube-KlipSoul-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=agrima-06&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-### ✨ *Learning. Building. Failing. Fixing. Repeating.*
+### ✨ Learning. Building. Improving. One commit at a time.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00c6ff,50:2575fc,100:6a11cb&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4389A2,50:5C258D,100:120136&section=footer"/>
 
 </div>
