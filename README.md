@@ -32,9 +32,10 @@ Since then, I've been exploring different technologies and trying to understand 
 * 🎓 Computer Science & AI Student
 * ☕ Working with **Java**
 * 🐍 Working with **Python**
+* ⚡ Working with **JavaScript**
 * ⚛️ Building with **React**
-* 🌐 Working with **JavaScript & Web Technologies**
-* 🐘 Started my journey with **PHP & Laravel**
+* 🌐 Exploring **Web Development**
+* 🐘 Started my coding journey with **PHP & Laravel**
 * 🧠 Currently improving **DSA & problem solving**
 * 🚀 Interested in **building real-world projects**
 * 🤝 Always open to learning and collaborating
@@ -81,7 +82,7 @@ Since then, I've been exploring different technologies and trying to understand 
                   React ⚛️
                      │
                      ▼
-                 DSA 🧠
+                  DSA 🧠
                      │
                      ▼
              BUILD • SOLVE • SHIP 🚀
@@ -144,7 +145,7 @@ Learning how frontend, backend, APIs and databases come together.
 
 ### 🚀 Real Projects
 
-Moving from solving individual problems to building complete applications.
+Moving from individual coding problems to building complete applications.
 
 </td>
 
@@ -157,21 +158,21 @@ Moving from solving individual problems to building complete applications.
 
 <div align="center">
 
-### 🧠 Become a Better Problem Solver
+### 🧠 Better Problem Solving
 
-Learn to approach problems logically instead of just memorizing solutions.
-
-<br>
-
-### 💻 Become a Stronger Developer
-
-Build projects that go beyond tutorials and actually solve problems.
+Learning to approach problems logically instead of memorizing solutions.
 
 <br>
 
-### 🚀 Build Things I Can Be Proud Of
+### 💻 Stronger Development Skills
 
-Take ideas from **“what if?” → code → working product.**
+Building projects that go beyond tutorials and actually solve problems.
+
+<br>
+
+### 🚀 Building & Shipping
+
+Taking ideas from **"what if?" → code → working product.**
 
 </div>
 
@@ -219,9 +220,9 @@ src="https://raw.githubusercontent.com/agrima-06/agrima-06/output/github-contrib
 
 </picture>
 
-<br>
+<br><br>
 
-<i>Every square is a day. Every move is progress.</i>
+<i>Every square is a day. Every move is progress. 🐍</i>
 
 </div>
 
@@ -252,7 +253,7 @@ alt="Agrima's 3D GitHub Contribution Calendar"/>
 
 # 📌 Featured Projects
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/agrima-06">
 
@@ -260,9 +261,13 @@ alt="Agrima's 3D GitHub Contribution Calendar"/>
 
 </a>
 
-</div>
+</p>
 
-> 🚧 More projects coming as I keep building.
+<p align="center">
+
+<i>More projects coming as I keep building 🚧</i>
+
+</p>
 
 ---
 
@@ -301,25 +306,19 @@ I also enjoy **creating content and documenting my journey**.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/agrimagupta06/">
-
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-
 </a>
 
     
 
 <a href="https://github.com/agrima-06">
-
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
-
 </a>
 
     
 
 <a href="mailto:agrimakesharwani06@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-
 </a>
 
 </p>
