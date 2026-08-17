@@ -229,36 +229,6 @@ alt="Agrima's 3D GitHub Contribution Calendar"/>
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=agrima-06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/agrima-06">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrima-06&repo=REPOSITORY-NAME&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<i>More projects coming as I keep building 🚧</i>
-
-</p>
-
----
-
 # 🎥 Beyond Coding
 
 <div align="center">
