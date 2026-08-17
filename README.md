@@ -178,18 +178,6 @@ Taking ideas from **"what if?" → code → working product.**
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=agrima-06&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrima-06&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -285,14 +273,6 @@ I also enjoy **creating content and documenting my journey**.
 
 </a>
 
-  
-
-<a href="https://www.youtube.com/@KlipSoul">
-
-<img src="https://img.shields.io/badge/KlipSoul-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-</a>
-
 <br><br>
 
 📸 Instagram: **@klipping._.bubbles**
@@ -309,13 +289,9 @@ I also enjoy **creating content and documenting my journey**.
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-    
-
 <a href="https://github.com/agrima-06">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-
-    
 
 <a href="mailto:agrimakesharwani06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
