@@ -60,9 +60,6 @@
 
 </div>
 
----
-
-
 
 <!-- <div align="center">
 
@@ -75,8 +72,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif" width="520"/>
 
 </div>  -->
-
-
 
 ---
 
@@ -121,42 +116,6 @@ Since then, I've been exploring different technologies and trying to understand 
 
 </tr>
 </table>
-
----
-
-# 🧭 My Coding Journey
-
-<div align="center">
-
-
-text
-                  CLASS 9
-                     │
-                     ▼
-              PHP + Laravel 🐘
-                     │
-                     ▼
-             Web Development 🌐
-                     │
-                     ▼
-          Computer Science & AI 🎓
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-        Java ☕    Python 🐍   JavaScript ⚡
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-                  React ⚛️
-                     │
-                     ▼
-                  DSA 🧠
-                     │
-                     ▼
-             BUILD • SOLVE • SHIP 🚀
-
-
-</div>
 
 ---
 
