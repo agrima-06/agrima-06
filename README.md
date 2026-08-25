@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/portrait.png"
+<!-- <img src="assets/portrait.png"
      width="300"
-     alt="Agrima Gupta dot matrix portrait">
+     alt="Agrima Gupta dot matrix portrait"> -->
 <br><br>
 
 <!-- NAME / TAGLINE -->
