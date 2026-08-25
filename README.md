@@ -35,7 +35,6 @@ Since then, I've been exploring different technologies and trying to understand 
 * ⚡ Working with **JavaScript**
 * ⚛️ Building with **React**
 * 🌐 Exploring **Web Development**
-* 🐘 Started my coding journey with **PHP & Laravel**
 * 🧠 Currently improving **DSA & problem solving**
 * 🚀 Interested in **building real-world projects**
 * 🤝 Always open to learning and collaborating
