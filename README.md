@@ -3,13 +3,6 @@
 <img src="assets/portrait.png"
      width="300"
      alt="Agrima Gupta dot matrix portrait">
-
-<br><br>
-
-<a href="https://github.com/agrima-06">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Agrima+Gupta;Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+React;DSA+%26+Web+Development;Building+%26+Learning+Every+Day" alt="Typing banner">
-</a>
-
 <br><br>
 
 <!-- NAME / TAGLINE -->
