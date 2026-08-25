@@ -1,5 +1,48 @@
 <div align="center">
 
+<!-- NAME / TAGLINE -->
+<a href="https://github.com/agrima-06">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Agrima+Gupta;Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+React;DSA+%26+Web+Development;Building+%26+Learning+Every+Day" alt="Typing banner">
+</a>
+
+<br>
+
+<!-- SOCIALS -->
+
+<a href="https://linkedin.com/in/agrimagupta06">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:agrimakesharwani06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://motif-website-master.vercel.app/">
+  <img src="https://img.shields.io/badge/Motif-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Motif">
+</a>
+
+<a href="https://leetcode.com/u/agrimakgupta/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
+<a href="https://github.com/agrima-06/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.instagram.com/bubbleiff/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=agrima-06&style=flat&color=A855F7&label=profile+views" alt="Profile views">
+
+</div>
+
+
+
+<!-- <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:120136,50:5C258D,100:4389A2&text=Agrima%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=900&color=9F7AEA&center=true&vCenter=true&width=720&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+JavaScript;React+%7C+Laravel+%7C+Web+Development;Learning+DSA+%26+Building+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Growing"/>
@@ -8,7 +51,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif" width="520"/>
 
-</div> 
+</div>  -->
 
 
 
