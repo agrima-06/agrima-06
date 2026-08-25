@@ -2,13 +2,12 @@
 
 <!-- PORTRAIT -->
 
-<img
+<!-- <img
   src="assets/portrait.png"
   width="320"
   alt="Agrima Gupta dot matrix portrait"
 />
-
-<br><br>
+<br> -->
 
 <!-- ANIMATED NAME / TAGLINE -->
 
@@ -262,17 +261,17 @@ alt="Agrima's 3D GitHub Contribution Calendar"/>
 
 I also enjoy **creating content and documenting my journey**.
 
-<br><br>
+<br>
 
 <a href="https://www.youtube.com/@Bubbleif">
-
 <img src="https://img.shields.io/badge/Bubbleif-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
 </a>
 
-<br><br>
+<br>
 
-📸 Instagram: **@klipping._.bubbles**
+<a href="https://www.instagram.com/bubbleiff/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
 
@@ -302,7 +301,7 @@ I also enjoy **creating content and documenting my journey**.
 
 <img src="https://komarev.com/ghpvc/?username=agrima-06&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-<br><br>
+<br>
 
 ### ✨ Learning. Building. Improving. One commit at a time.
 
