@@ -240,8 +240,7 @@ Taking ideas from **"what if?" → code → working product.**
 
 ### 🚀 Motif — Startup / VC Platform
 
-Built and launched **Motif in 2 months**, onboarding **3 VCs** and helping **13 startups** connect with VC support.
-
+Ongoing product to help founders validate ideas & reach VCs. 
 <br>
 
 ### 🏅 SIH 2026
