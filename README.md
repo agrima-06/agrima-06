@@ -254,12 +254,6 @@ Selected in my college's **Smart India Hackathon 2026 Internal Round**.
 
 Participated in **5+ hackathons**, including **24-hour, 8-hour and Prompt-based hackathons**.
 
-<br>
-
-### 🧑‍💻 Open Source
-
-**Hacktoberfest Contributor**
-
 </div>
 
 ---
