@@ -7,6 +7,24 @@
   width="320"
   alt="Agrima Gupta dot matrix portrait"
 />
+<br> --><div align="center">
+
+<!-- PORTRAIT -->
+
+<!-- <img
+  src="assets/portrait.png"
+  width="320"
+  alt="Agrima Gupta dot matrix portrait"
+/>
+<br> --><div align="center">
+
+<!-- PORTRAIT -->
+
+<!-- <img
+  src="assets/portrait.png"
+  width="320"
+  alt="Agrima Gupta dot matrix portrait"
+/>
 <br> -->
 
 <!-- ANIMATED NAME / TAGLINE -->
@@ -70,7 +88,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750676-0ce06c09-7b42-4f3a-b0e1-3c3d317790d7.gif" width="520"/>
 
-</div>  -->
+</div> -->
 
 ---
 
@@ -124,7 +142,7 @@ Since then, I've been exploring different technologies and trying to understand 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,php"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,mysql"/>
 
 </p>
 
@@ -136,11 +154,23 @@ Since then, I've been exploring different technologies and trying to understand 
 
 </p>
 
+## 🧠 Core Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-ML%20%26%20AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-Database%20Systems-4389A2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-Architecture-5C258D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Development-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C3AED?style=for-the-badge"/>
+
+</p>
+
 ## 🔧 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
 
 </p>
 
@@ -204,6 +234,36 @@ Taking ideas from **"what if?" → code → working product.**
 
 ---
 
+# 🏆 Achievements
+
+<div align="center">
+
+### 🚀 Motif — Startup / VC Platform
+
+Built and launched **Motif in 2 months**, onboarding **3 VCs** and helping **13 startups** connect with VC support.
+
+<br>
+
+### 🏅 SIH 2026
+
+Selected in my college's **Smart India Hackathon 2026 Internal Round**.
+
+<br>
+
+### 💻 Hackathons
+
+Participated in **5+ hackathons**, including **24-hour, 8-hour and Prompt-based hackathons**.
+
+<br>
+
+### 🧑‍💻 Open Source
+
+**Hacktoberfest Contributor**
+
+</div>
+
+---
+
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -261,11 +321,23 @@ alt="Agrima's 3D GitHub Contribution Calendar"/>
 
 I also enjoy **creating content and documenting my journey**.
 
+<br><br>
+
+### 📺 31L+ YouTube Views
+
+Creating content around **coding, DSA, college life and my building journey**.
+
 <br>
 
 <a href="https://www.youtube.com/@Bubbleif">
 <img src="https://img.shields.io/badge/Bubbleif-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
+<br><br>
+
+### 📱 5L+ Instagram Views
+
+Sharing short-form content and documenting my journey.
 
 <br>
 
@@ -291,6 +363,18 @@ I also enjoy **creating content and documenting my journey**.
 
 <a href="mailto:agrimakesharwani06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://leetcode.com/u/agrimakgupta/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="48"/>
+</a>
+
+<a href="https://www.youtube.com/@Bubbleif">
+<img src="https://skillicons.dev/icons?i=youtube" height="48"/>
+</a>
+
+<a href="https://www.instagram.com/bubbleiff/">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
 </p>
